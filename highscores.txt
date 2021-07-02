@@ -1,0 +1,5 @@
+MAF	4
+LOL	5
+FAM	16
+LLL	20
+CMB	35
